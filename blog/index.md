@@ -1,5 +1,6 @@
 ---
 title: Blog
+published: false
 nav:
   order: 4
   tooltip: Musings and miscellany

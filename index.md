@@ -1,10 +1,11 @@
 ---
 ---
 
-# IMPACT Lab
-## Innovative Mission-drive Propulsion and Combustion Technologies Laboratory
+# Research Focused on What Matters
 
 At the IMPACT lab, led by Professor Zachary (Zach) Ayers at the University of South Florida, we believe in pushing the boundaries of propulsion and combustion technology by applying scientific research to solve the challenges that real designers face. We start and end with mission requirements in mind to deliver new insights and designs that matter in the field.
+
+From systems analysis of high-speed engines to flight trajectory modeling and experimental testing of rotating detonation engines with advanced laser diagnostic measurements, our focus is to use fundamental science to create breakthroughs tied to the application.
 
 {% include section.html %}
 
@@ -12,7 +13,7 @@ At the IMPACT lab, led by Professor Zachary (Zach) Ayers at the University of So
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our approach is built on a strong foundation of published research, using advanced techniques to study high-frequency combustion phenomena.
 
 {%
   include button.html
@@ -27,15 +28,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Figure10.pdf"
   link="research"
   title="Our Research"
   text=text
 %}
 
+{% comment %}
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See what we're doing now to change the future of aerospace and power generation.
 
 {%
   include button.html
@@ -57,10 +59,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   style="bare"
   text=text
 %}
+{% endcomment %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We're currently recruiting our founding lab members. See our team page for a link to apply.
 
 {%
   include button.html
@@ -75,7 +78,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ZachHeadshot.jpeg"
   link="team"
   title="Our Team"
   text=text
